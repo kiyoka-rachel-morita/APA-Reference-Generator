@@ -13,4 +13,4 @@ This is my first personal project using Python — a command-line tool that gene
 ## 🔧 How to Use
 
 ```bash
-python apa_reference_generator.py
+python APA_reference_maker_UPDATED(1).py
