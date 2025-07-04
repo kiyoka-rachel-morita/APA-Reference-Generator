@@ -4,11 +4,21 @@ This is my first personal project using Python — a command-line tool that gene
 
 ## ✅ Features
 
-- Supports 9 source types (books, journal articles, motion pictures, etc.)
-- Runs in a terminal
-- Allows multiple entries via loop
-- Clean formatting with line breaks
-- Easy to use — just follow the prompts!
+- 🖋️ Generates APA-style references automatically from user input
+- 🔁 Supports continuous input with a loop (no need to restart the program each time)
+- 🔚 Allows user to exit anytime using `exit` command
+- 📚 Supports 9 different source types:
+  - Book
+  - Journal Article
+  - Online Material
+  - Encyclopedia
+  - Newspaper Article
+  - Motion Picture
+  - Government Report
+  - Foreign Language Article
+  - No Author / Professional Website
+- 💬 Step-by-step prompts make it easy for anyone to use
+- 🧹 Clean output formatting with line breaks for readability
 
 ## 🔧 How to Use
 
